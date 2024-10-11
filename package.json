@@ -1,0 +1,11 @@
+{
+  "name": "meal-planner-app",
+  "version": "1.0.0",
+  "description": "Meal Planner App",
+  "main": "index.js",
+  "author": "charles.campbell599@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
